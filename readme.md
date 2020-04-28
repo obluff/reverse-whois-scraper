@@ -3,7 +3,7 @@
 - Usage
     - Update the following parameters at `reverse_api_data.py` to fit your needs.
         - `pages_to_parse`
-            - # of pages to scrape through 
+            - num of pages to scrape through 
         - `output_filename`
             - Path to output CSV file
         - `keyword`
